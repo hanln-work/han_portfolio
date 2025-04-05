@@ -1,6 +1,13 @@
-# han_portfolio
+# 👋 Hi, I'm Han
 
-### About me:
-As a Business Analyst with experience in the HRM and CRM domains, I have collaborated with cross-functional teams to enhance business processes and implement system solutions. My work includes developing HR systems and automating workflows using Base.vn and HubSpot. Currently, my short-term goal is to gain the ACCA certification to deepen my finance expertise. My long-term goal is to leverage my analytical skills and domain knowledge as a Business Analyst in the ERP field.
+### Business Analyst | Data Enthusiast | ERP Explorer
 
-![My Dashboard Screenshot](https://github.com/hanln-work/han_portfolio/blob/main/images/project_BA_image.png)
+As a Business Analyst with experience in the HRM and CRM domains, I have collaborated with cross-functional teams to enhance business processes and implement system solutions. My work includes developing HR systems and automating workflows using Base.vn and HubSpot.
+
+My short-term goal is to earn the ACCA certification to deepen my finance expertise. My long-term goal is to leverage my analytical skills and domain knowledge as a Business Analyst in the ERP field.
+
+---
+
+### 📊 My Work
+
+<img src="https://raw.githubusercontent.com/hanln-work/han_portfolio/main/images/project_BA_images.png" alt="Dashboard Screenshot" style="max-width: 100%; height: auto;" />
