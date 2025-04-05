@@ -10,4 +10,4 @@ My short-term goal is to earn the ACCA certification to deepen my finance expert
 
 ### 📊 My Work
 
-<img src="https://raw.githubusercontent.com/hanln-work/han_portfolio/main/images/project_BA_images.png" alt="Dashboard Screenshot" style="max-width: 100%; height: auto;" />
+<img src="https://raw.githubusercontent.com/hanln-work/han_portfolio/main/images/project_BA_image.png" alt="Dashboard Screenshot" style="max-width: 100%; height: auto;" />
