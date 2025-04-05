@@ -2,4 +2,4 @@
 About me:
 As a Business Analyst with experience in the HRM and CRM domains, I have collaborated with cross-functional teams to enhance business processes and implement system solutions. My work includes developing HR systems and automating workflows using Base.vn and HubSpot. Currently, my short-term goal is to gain the ACCA certification to deepen my finance expertise. My long-term goal is to  leverage my analytical skills and domain knowledge as a Business Analyst in the ERP field.
 
-![](https://github.com/hanln-work/han_portfolio/blob/main/images/Screenshot%202025-04-05%20at%2017.32.45.png)
+![](https://github.com/hanln-work/han_portfolio/blob/51c4798bdee9cf08f8e12f1fe0092919e989e512/images/Screenshot%202025-04-05%20at%2017.32.45.png)
